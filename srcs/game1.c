@@ -6,7 +6,7 @@
 /*   By: lbrianna <lbrianna@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/16 16:23:33 by lbrianna          #+#    #+#             */
-/*   Updated: 2022/03/25 13:49:58 by lbrianna         ###   ########.fr       */
+/*   Updated: 2022/03/25 14:18:58 by lbrianna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -93,4 +93,3 @@ int	game_over(t_map *map)
 	free_map(map);
 	exit(0);
 }
-
